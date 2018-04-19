@@ -369,7 +369,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - [ ] **How computers process a program:**
     - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+    - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
